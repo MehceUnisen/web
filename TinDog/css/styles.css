@@ -77,3 +77,37 @@ body{
     font-size: 1.3rem;
 }
 
+/* testimonial section */
+
+#testimonials{
+    text-align: center;
+    background-color: #ef8172;
+    color: white;
+}
+.testimonial-h2{
+    line-height: 3rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+.testimonial-img{
+    width: 25%;
+    border-radius: 40%;
+    margin: 5%;
+}
+
+.carousel-item{
+    padding: 7% 15%;
+}
+/* press section */
+
+#press{
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.press-imgs{
+    width: 9%;
+    margin: 2%;
+}
