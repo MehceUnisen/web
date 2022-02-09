@@ -1,0 +1,23 @@
+body{        
+    background-color: lightgrey;
+}
+hr {
+    border-style: dotted;
+    width: 5%;
+    border-width: 5px;
+    border-left-width: 0;
+    border-top-width: 0;
+    border-right-width: 0;
+}
+
+h1{
+    color:#66BFBF;
+}
+
+h3{
+    color:#66BFBF;
+}
+
+.edu-list{
+    color: white;
+}
