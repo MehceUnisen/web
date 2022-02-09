@@ -1,0 +1,79 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+#title{
+    background-color: #ff4c68;
+}
+.meet-new-dog-h1{
+    font-size: 3.5rem;
+    line-height: 1.5;
+    font-weight: bolder;
+    color: white;
+}
+
+.continer-fluid{
+    padding: 3% 15%
+}
+
+
+.app-store{
+    float: left;
+}
+
+/* Nav bar */
+
+.navbar{
+    padding-bottom: 4.5rem;
+    padding-left: 0;
+}
+
+.navbar-brand{
+    font-family: 'Ubuntu';
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.nav-item{
+    margin: 0 20px;
+    font-size: 1.2rem;
+    font-family: 'Montserrat Light', sans-serif;
+}
+ 
+/* Buttons */
+
+.download-button{
+    margin: 10% 3% 5% 0;
+}
+
+/* Title Image */
+
+.title-iphone-img{
+    width: 60%;
+    transform: rotate(25deg);
+}
+
+/* features section */
+
+.features-imgs{
+    height: 20%;
+    
+    margin-bottom: 3%;
+}
+
+.features-div{
+    padding: 20% 0 0% 0;
+    text-align: center;
+}
+
+.features-h3{
+    font-size: 2rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+}
+
+.features-p{
+    color: #8f8f8f;
+    font-size: 1.3rem;
+}
+
