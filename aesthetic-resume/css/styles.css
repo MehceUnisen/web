@@ -1,0 +1,114 @@
+body{
+    margin: 0px;
+    font-family: verdana, sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #a0c1b8;
+    font-size: 20px;
+    font-weight: bold;
+}
+.myname{
+    margin: 20px 0 0 0;
+    font-family: 'Sacramento', cursive;
+    font-size: 100px;
+}
+h2{
+    font-family: 'Sacramento', cursive;
+    color: #0c8282;
+    font-size: 60px;
+}
+.whoami{
+    /* background-color: #00adb5; */
+    margin: 0px;
+    text-align: center;
+    padding: 40px;
+} 
+
+.middle-container{
+    text-align: center;
+}
+
+.bottom-container{
+    text-align: center;
+}
+
+.pro{
+    text-decoration: underline;
+}
+
+.top-cloud{
+    position: relative;
+    left: 30%;
+    width: 200px;
+}
+
+.bottom-cloud{
+    position: relative;
+    right: 30%;
+    width: 200px;
+}
+
+.about_p{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 200%;
+    margin: 0px 0px 20px 0;
+}
+
+.my-skills-h2{
+    margin-bottom: 0;
+}
+
+.footer-link{
+    position: relative;
+    top: 10px;
+    margin-top: 20px;
+}
+
+.copyright-name{
+    position: relative;
+}
+
+.regular-hr{
+    border-style: dotted;
+    border-width: 10px;
+    border-top: 0;
+    width: 15%;
+    color: #d6e3ed;
+    margin-top: 8%;
+    margin-bottom: 18%;
+}
+
+.motherboard-img{
+    width: 150px;
+    height: 150px;
+    margin: 50px 0 20px 0;
+}
+
+.programming-img{
+    width: 150px;
+    height: 150px;
+    margin: 50px 0 20px 0;
+}
+
+p{
+    padding: 0 30%;
+}
+
+.last-hr{
+    border-style: dotted;
+    border-width: 10px;
+    border-top: 0;
+    width: 15%;
+    color: #d6e3ed;
+    margin-top: 4%;
+    margin-bottom: 3%;
+}
+
+.mail-img{
+    width: 150px;
+    height: 150px;
+    margin: 50px 0 20px 0;
+}
+
+h3{
+    font-size: 36px;
+}
