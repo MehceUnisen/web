@@ -168,3 +168,30 @@ body{
     }
 
 }
+
+/* cta section */
+
+#cta{
+    padding: 4% 0;
+    text-align: center;
+    background-color: #ff4c68;
+}
+
+.cta-h3{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    font-weight: bolder;
+}
+
+/* footer section */
+
+#footer{
+    text-align: center;
+    background-color: white;
+    margin: 10% 0;
+}
+
+.social-media-logo{
+    margin: 2%;
+}
