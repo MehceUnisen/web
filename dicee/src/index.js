@@ -3,8 +3,8 @@ main();
 
 function main(){
     
-    var diceOne = Math.floor(Math.random() * 6);
-    var diceTwo = Math.floor(Math.random() * 6);
+    var diceOne = Math.floor(Math.random() * 6) + 1;
+    var diceTwo = Math.floor(Math.random() * 6) + 1;
 
     decideWinner(diceOne, diceTwo);
 
