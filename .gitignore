@@ -2,4 +2,5 @@
 *.png
 *.ico
 /resources
+/dom
 /images
